@@ -17,12 +17,15 @@ in CoffeeScript by Nicolas Kruchten.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pivottable-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pivottable-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pivottable-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pivottable-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pivottable/badges/version.svg)](https://anaconda.org/conda-forge/pivottable)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pivottable/badges/downloads.svg)](https://anaconda.org/conda-forge/pivottable)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pivottable-green.svg)](https://anaconda.org/conda-forge/pivottable) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pivottable.svg)](https://anaconda.org/conda-forge/pivottable) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pivottable.svg)](https://anaconda.org/conda-forge/pivottable) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pivottable.svg)](https://anaconda.org/conda-forge/pivottable) |
 
 Installing pivottable
 =====================
