@@ -1,6 +1,6 @@
 {% set name = "pivottable" %}
-{% set version = "2.21.0" %}
-{% set sha256 = "4003b81123886b84724ab504dfb5d12f2e808d90a6c5af0c7fcb45f325cf8170" %}
+{% set version = "2.22.0" %}
+{% set sha256 = "15cb988730bda4ca4e8d1269c2e381325ed3a96eecdb13f90ecbcfa886225169" %}
 
 package:
   name: {{ name|lower }}
